@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\lib\idea_rt.jar=54822:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\pyoun\interfaceAnimal\out\production\interfaceAnimal com.company.Main
+ Coldie Basic Information
+ Animal Type        : Yak
+ ID Tag             : 1
+ Minimum Temperature: -40 F
+ Maximum Temperature: 55 F
+
+Process finished with exit code 0
